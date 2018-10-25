@@ -1,6 +1,7 @@
 /**
  * Author: Michael Barcelo
  * filename: RPS.java
+ * Github: MBarc
  */
 package rps;
 
